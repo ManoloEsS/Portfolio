@@ -7,12 +7,12 @@ These are educational exercises — not production apps — but they show my pro
 
 ## Projects
 
-Project Number| Project | Repo | Description | Key Learnings |
+Project Number| Project Name | Link | Description | Key Learnings |
 |-------------|---------|------|-------------|---------------|
-| 1 | Asteroids | [Repo](https://github.com/yourname/fizzbuzz) | Classic beginner exercise | Control flow, loops, testing |
-| 2 | AI Agent | [Repo](https://github.com/yourname/file-parser) | Reads and processes text files | File I/O, error handling, string manipulation |
-| 3 | Static Website Generator | [Repo](https://github.com/yourname/http-server) | Minimal web server in Go | HTTP basics, concurrency, routing |
-| 4 | CLI Password Manager | [Repo](https://github.com/yourname/todo-api) | REST API for managing todos | APIs, JSON, project structure, clean code |
-| 5 | Pokedex CLI | [Repo](https://github.com/yourname/todo-api) | REST API for managing todos | APIs, JSON, project structure, clean code |
-| 6 | Gator CLI  | [Repo](https://github.com/yourname/todo-api) | REST API for managing todos | APIs, JSON, project structure, clean code |
+| 1 | Asteroids | [Repo](https://github.com/yourname/fizzbuzz) | Asteroids game built with pygame | Control flow, loops, testing |
+| 2 | AI Agent | [Repo](https://github.com/yourname/file-parser) | AI Agent that can read and modify code files | File I/O, error handling, string manipulation |
+| 3 | Static Website Generator | [Repo](https://github.com/yourname/http-server) | Static site generator that reads a markdown file and recursively converts it into html | HTTP basics, concurrency, routing |
+| 4 | CLI Password Manager | [Repo](https://github.com/yourname/todo-api) | Cli tool that encrypts, saves and retrieves passwords |
+| 5 | Pokedex CLI | [Repo](https://github.com/yourname/todo-api) | Cli REPL that retrieves pokemon data from PokeAPI.co  | APIs, JSON, project structure, clean code |
+| 6 | Gator CLI  | [Repo](https://github.com/yourname/todo-api) | Cli RSS feed aggregator | APIs, JSON, project structure, clean code |
 
