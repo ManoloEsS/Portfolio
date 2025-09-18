@@ -7,12 +7,12 @@ These are educational exercises — not production apps — but they show my pro
 
 ## Projects
 
-Project Number| Project Name | Link | Description | Key Learnings |
-|-------------|---------|------|-------------|---------------|
-| 1 | Asteroids | [Repo](https://github.com/yourname/fizzbuzz) | Asteroids game built with pygame | Control flow, loops, testing |
-| 2 | AI Agent | [Repo](https://github.com/yourname/file-parser) | AI Agent that can read and modify code files | File I/O, error handling, string manipulation |
-| 3 | Static Website Generator | [Repo](https://github.com/yourname/http-server) | Static site generator that reads a markdown file and recursively converts it into html | HTTP basics, concurrency, routing |
-| 4 | CLI Password Manager | [Repo](https://github.com/yourname/todo-api) | Cli tool that encrypts, saves and retrieves passwords |
-| 5 | Pokedex CLI | [Repo](https://github.com/yourname/todo-api) | Cli REPL that retrieves pokemon data from PokeAPI.co  | APIs, JSON, project structure, clean code |
-| 6 | Gator CLI  | [Repo](https://github.com/yourname/todo-api) | Cli RSS feed aggregator | APIs, JSON, project structure, clean code |
+Project Number| Project Name | Link | Description | Language | Key Learnings |
+|-------------|---------|------|-------------|---------|---------------|
+| 1 | Asteroids | [Repo](https://github.com/ManoloEsS/asteroids) | Asteroids game built with pygame | Python | OOP, multifile projects, uv package and project manager |
+| 2 | AI Agent | [Repo](https://github.com/ManoloEsS/ai_agent) | AI Agent that can read and modify code files | Python | multidirectory projects, AI tools, functional programming |
+| 3 | CLI Password Manager | [Repo](https://github.com/ManoloEsS/cli-password-manager) | Cli tool that encrypts, saves and retrieves passwords | Python | version control, collaboration, project design and planning, command line |
+| 4 | Static Website Generator | [Repo](https://github.com/ManoloEsS/my_static_website) | Static site generator that reads a markdown file and recursively converts it into html | Python | HTML, CSS, Markdown, static sites, recursion|
+| 5 | Pokedex CLI | [Repo](https://github.com/ManoloEsS/pokedex) | Cli REPL that retrieves pokemon data from PokeAPI.co  | Go | JSON parsing, HTTP clients and requests, caching |
+| 6 | Gator CLI  | [Repo](https://github.com/ManoloEsS/gator_cli) | Cli RSS feed aggregator | Go | PostgreSQL databases, querying and migrations |
 
