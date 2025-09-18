@@ -1,4 +1,8 @@
-          # Boot.dev Learning Projects
+<div align="center">
+
+# Boot.dev Learning Projects
+
+</div>
 
 This repository serves as a hub for the projects I built while learning backend development through [Boot.dev](https://boot.dev).  
 The projects are listed in the order they were completed, and they increase in complexity and scope.
