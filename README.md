@@ -1,9 +1,14 @@
-# Boot.dev Learning Projects
+          # Boot.dev Learning Projects
 
-This is a collection of projects I built while learning backend development through [Boot.dev](https://boot.dev).  
-Each project has its own repository with code, documentation, and notes on what I learned.
+This repository serves as a hub for the projects I built while learning backend development through [Boot.dev](https://boot.dev).  
+The projects are listed in the order they were completed, and they increase in complexity and scope.
 
-These are educational exercises — not production apps — but they show my progression as I learned new skills and concepts.
+Each project has its own repository with:
+- Source code
+- Documentation
+- Notes on what I learned from completing the project
+
+These are educational exercises — not production-ready apps — but they show my progression as I learned new skills and concepts.
 
 ## Projects
 
@@ -15,4 +20,8 @@ Project Number| Project Name | Link | Description | Language | Key Learnings |
 | 4 | Static Website Generator | [Repo](https://github.com/ManoloEsS/my_static_website) | Static site generator that reads a markdown file and recursively converts it into html | Python | HTML, CSS, Markdown, static sites, recursion|
 | 5 | Pokedex CLI | [Repo](https://github.com/ManoloEsS/pokedex) | Cli REPL that retrieves pokemon data from PokeAPI.co  | Go | JSON parsing, HTTP clients and requests, caching |
 | 6 | Gator CLI  | [Repo](https://github.com/ManoloEsS/gator_cli) | Cli RSS feed aggregator | Go | PostgreSQL databases, querying and migrations |
+
+
+ ## My growth as a Programmer
+
 
