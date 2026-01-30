@@ -25,7 +25,5 @@ These are educational exercises — not production-ready apps — but they show 
 | AI Agent | [Repo](https://github.com/ManoloEsS/ai_agent) | AI Agent that can read and modify code files | Python | multidirectory projects, AI tools, functional programming, unit tests |
 | Asteroids | [Repo](https://github.com/ManoloEsS/asteroids) | Asteroids game built with pygame | Python | OOP, multifile projects, uv package and project manager |
 
-## My growth as a Programmer
-
 
 
