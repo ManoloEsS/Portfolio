@@ -16,7 +16,11 @@ Burrow has a layered architecture with:
 - Service layer: HTTP client service and Server service.
 - Database layer: SQLite embedded database with SQLC generated type-safe code.
 
+
 ## Cli Password Manager
+
+[CLIPM](https://github.com/ManoloEsS/cli-password-manager) is a CLI tool for managing passwords with built in fernet encryption for storage
+of usernames and passwords in a local JSON file.
 
 
 # Boot.dev Learning Projects
