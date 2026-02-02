@@ -1,6 +1,6 @@
 # Personal Projects
 
-### Burrow
+## Burrow
 
 [Burrow](https://github.com/ManoloEsS/burrow) is a terminal-based HTTP client and Go server manager. Its HTTP client functionalities are similar to [postman](https://www.postman.com/) and [atac](https://github.com/Julien-cpsn/ATAC).
 The server manager is a service that can run and stop a Go server program and monitor their health. 
@@ -8,7 +8,7 @@ The server manager is a service that can run and stop a Go server program and mo
 The motivation behind this project was to provide students learning how to make and use REST APIs with a tool to start simple Go servers and test them
 from the same environment.
 
-#### Architecture
+### Architecture
 
 Burrow has a layered architecture with:
 
@@ -16,7 +16,7 @@ Burrow has a layered architecture with:
 - Service layer: HTTP client service and Server service.
 - Database layer: SQLite embedded database with SQLC generated type-safe code.
 
-### Cli Password Manager
+## Cli Password Manager
 
 
 # Boot.dev Learning Projects
